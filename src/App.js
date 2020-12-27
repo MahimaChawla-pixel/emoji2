@@ -35,7 +35,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>inside outttttt</h1>
+      <h1>Emoji pedia</h1>
       <input
         onChange={changeHandler}
         value={emoji}
